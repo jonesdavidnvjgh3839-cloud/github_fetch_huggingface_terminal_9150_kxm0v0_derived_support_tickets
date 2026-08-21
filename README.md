@@ -1,5 +1,5 @@
 ---
-license: unknown
+license: cc-by-4.0
 ---
 
 # Support Tickets (Derived)
@@ -12,4 +12,8 @@ A derived dataset combining store reviews and service interaction logs for suppo
 
 ## License
 
-The license terms of this derived dataset are currently under review. The provenance and licensing section will be updated once the compliance audit is complete.
+This derived dataset is released under the **Creative Commons Attribution 4.0** license.
+Upstream sources:
+- SRC-GAMMA (apache-2.0)
+- SRC-DELTA (cc-by-4.0)
+Commercial use is permitted with attribution.
